@@ -5,7 +5,7 @@ pragma solidity ^0.6.0;
 contract SimpleStorage {
 
     //Data Types
-    uint256 favoriteNumber = 10;
+    uint256 favoriteNumber = 0;
     bool favoriteBool = false;
     string favoriteString = "String";
     int256 favoriteInt = -10;
